@@ -173,8 +173,8 @@ rendered inline — no setup required.
 
 ## Reproducing the Results
 ```bash
-git clone https://github.com/Imran3285/Telecom-Customer-Targeting-Using-ML.git
-cd Telecom-Customer-Targeting-Using-ML
+git clone https://github.com/Imran3285/telecom-customer-targeting-using-ML.git
+cd telecom-customer-targeting-using-ML
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 jupyter notebook "Telecom Customer Targeting.ipynb"
 ```
