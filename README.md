@@ -193,4 +193,4 @@ Python · Pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter No
 
 ## Author
 
-**Muhammad Imran**  an88222@gmail.com
+**Muhammad Imran**
