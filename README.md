@@ -164,8 +164,9 @@ rendered inline — no setup required.
 
 ## Project Structure
 ```
-├── Telecom Customer Targeting.ipynb   # Full reproducible pipeline
-├── wallacecommunications.csv          # Source dataset
+├── Telecom Customer Targeting.ipynb # Full ML pipeline
+├── sample_data.csv # Dataset
+├── images/ # Visual outputs
 └── README.md
 ```
 
@@ -186,7 +187,7 @@ fully reproducible.
 
 ## Stack
 
-Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter
+Python · Pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter Notebook
 
 ---
 
@@ -194,5 +195,4 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter
 
 **Muhammad Imran**  
 Data Scientist 
-GitHub: [@Imran3285](https://github.com/Imran3285)  
 Email: m.imran88222@gmail.com
